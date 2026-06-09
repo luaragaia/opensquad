@@ -1,0 +1,539 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Entrar" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fpersonalchefsbrasil%2Freel%2FDEh30iAOIxJ%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - generic [ref=e64]:
+      - generic [ref=e66]:
+        - group "Video player" [ref=e735]:
+          - button "Alternar áudio" [ref=e737] [cursor=pointer]:
+            - img "O áudio está silenciado" [ref=e739]
+        - generic [ref=e77]:
+          - generic [ref=e79]:
+            - link "Foto do perfil de personalchefsbrasil" [ref=e81] [cursor=pointer]:
+              - img "Foto do perfil de personalchefsbrasil" [ref=e82]
+            - generic [ref=e85]:
+              - link "personalchefsbrasil" [ref=e88] [cursor=pointer]:
+                - /url: /personalchefsbrasil/
+                - generic [ref=e91]: personalchefsbrasil
+              - generic [ref=e92]:
+                - generic [ref=e94]: •
+                - button "Seguir" [ref=e95] [cursor=pointer]
+            - button "Mais opções" [ref=e98] [cursor=pointer]:
+              - img "Mais opções" [ref=e101]
+          - separator [ref=e105]
+          - generic [ref=e107]:
+            - generic [ref=e109]:
+              - link "Foto do perfil de personalchefsbrasil" [ref=e111] [cursor=pointer]:
+                - /url: /personalchefsbrasil/
+                - img "Foto do perfil de personalchefsbrasil" [ref=e112]
+              - generic [ref=e116]:
+                - generic [ref=e117]:
+                  - link "personalchefsbrasil" [ref=e118] [cursor=pointer]:
+                    - /url: /personalchefsbrasil/
+                    - generic [ref=e121]: personalchefsbrasil
+                  - time [ref=e123]: 73 sem
+                - generic [ref=e124]: Começe a ter refeições descomplicadas no seu dia a dia e tenha os clássicos da culinária servidos na marmita para você comer em qualquer lugar!!! 🍴✨
+            - button "Carregar mais comentários" [ref=e126] [cursor=pointer]:
+              - img "Carregar mais comentários" [ref=e128]
+            - generic [ref=e130]:
+              - generic [ref=e133]:
+                - link "Foto do perfil de raymp" [ref=e135] [cursor=pointer]:
+                  - /url: /raymp/
+                  - img "Foto do perfil de raymp" [ref=e136]
+                - generic [ref=e138]:
+                  - generic [ref=e140]:
+                    - generic [ref=e141]:
+                      - link "raymp" [ref=e143] [cursor=pointer]:
+                        - /url: /raymp/
+                        - generic [ref=e146]: raymp
+                      - link "5 d" [ref=e148] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18132760522602903/
+                        - time [ref=e149]: 5 d
+                    - generic [ref=e151]:
+                      - link "@matheusales" [ref=e152] [cursor=pointer]:
+                        - /url: /matheusales/
+                      - text: ","
+                      - link "@amandafarias.gastroped" [ref=e153] [cursor=pointer]:
+                        - /url: /amandafarias.gastroped/
+                      - text: ","
+                      - link "@yvensgranatto" [ref=e154] [cursor=pointer]:
+                        - /url: /yvensgranatto/
+                  - generic [ref=e155]:
+                    - button "1 curtida" [ref=e156] [cursor=pointer]:
+                      - generic [ref=e158]: 1 curtida
+                    - button "Responder" [ref=e159] [cursor=pointer]:
+                      - generic [ref=e161]: Responder
+              - generic [ref=e164]:
+                - link "Foto do perfil de embalagens_biorganicas" [ref=e166] [cursor=pointer]:
+                  - /url: /embalagens_biorganicas/
+                  - img "Foto do perfil de embalagens_biorganicas" [ref=e167]
+                - generic [ref=e169]:
+                  - generic [ref=e171]:
+                    - generic [ref=e172]:
+                      - link "embalagens_biorganicas" [ref=e174] [cursor=pointer]:
+                        - /url: /embalagens_biorganicas/
+                        - generic [ref=e177]: embalagens_biorganicas
+                      - link "2 sem" [ref=e179] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/17906071365245889/
+                        - time [ref=e180]: 2 sem
+                    - generic [ref=e182]: "Excelente proposta \" A Biona pode ser uma solução interessante para alimentação natural e congelada: freezer → aquecimento→ servir diretamente ao pet, no mesmo recipiente."
+                  - generic [ref=e183]:
+                    - button "Curtir" [ref=e184] [cursor=pointer]:
+                      - generic [ref=e185]: Curtir
+                    - button "Responder" [ref=e186] [cursor=pointer]:
+                      - generic [ref=e188]: Responder
+              - generic [ref=e191]:
+                - link "Foto do perfil de julia_gfranca" [ref=e193] [cursor=pointer]:
+                  - /url: /julia_gfranca/
+                  - img "Foto do perfil de julia_gfranca" [ref=e194]
+                - generic [ref=e196]:
+                  - generic [ref=e198]:
+                    - generic [ref=e199]:
+                      - link "julia_gfranca" [ref=e201] [cursor=pointer]:
+                        - /url: /julia_gfranca/
+                        - generic [ref=e204]: julia_gfranca
+                      - link "2 sem" [ref=e206] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18469731823098412/
+                        - time [ref=e207]: 2 sem
+                    - generic [ref=e209]: NÃO CONSIGO RETORNO MO WHATSAPP, faz 2 dias que espero minhas marmitas!
+                  - generic [ref=e210]:
+                    - button "Curtir" [ref=e211] [cursor=pointer]:
+                      - generic [ref=e212]: Curtir
+                    - button "Responder" [ref=e213] [cursor=pointer]:
+                      - generic [ref=e215]: Responder
+              - generic [ref=e218]:
+                - link "Foto do perfil de keylla.morroni" [ref=e220] [cursor=pointer]:
+                  - /url: /keylla.morroni/
+                  - img "Foto do perfil de keylla.morroni" [ref=e221]
+                - generic [ref=e223]:
+                  - generic [ref=e225]:
+                    - generic [ref=e226]:
+                      - link "keylla.morroni" [ref=e228] [cursor=pointer]:
+                        - /url: /keylla.morroni/
+                        - generic [ref=e231]: keylla.morroni
+                      - link "5 sem" [ref=e233] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18076832378556027/
+                        - time [ref=e234]: 5 sem
+                    - generic [ref=e236]: Finamente achei marmitas fitness gostoso e custo beneficio,😍😍 olha que já comprei de outras empresas e não gostei. Irei comprar mais com toda certeza ❤️
+                  - generic [ref=e237]:
+                    - button "1 curtida" [ref=e238] [cursor=pointer]:
+                      - generic [ref=e240]: 1 curtida
+                    - button "Responder" [ref=e241] [cursor=pointer]:
+                      - generic [ref=e243]: Responder
+              - generic [ref=e246]:
+                - link "Foto do perfil de margaretegreches" [ref=e248] [cursor=pointer]:
+                  - /url: /margaretegreches/
+                  - img "Foto do perfil de margaretegreches" [ref=e249]
+                - generic [ref=e251]:
+                  - generic [ref=e253]:
+                    - generic [ref=e254]:
+                      - link "margaretegreches" [ref=e256] [cursor=pointer]:
+                        - /url: /margaretegreches/
+                        - generic [ref=e259]: margaretegreches
+                      - link "6 sem" [ref=e261] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18103846636936106/
+                        - time [ref=e262]: 6 sem
+                    - generic [ref=e264]: Por favor, qual é o peso de cada marmita?!!
+                  - generic [ref=e265]:
+                    - button "1 curtida" [ref=e266] [cursor=pointer]:
+                      - generic [ref=e268]: 1 curtida
+                    - button "Responder" [ref=e269] [cursor=pointer]:
+                      - generic [ref=e271]: Responder
+              - generic [ref=e274]:
+                - link "Foto do perfil de aldenisa907" [ref=e276] [cursor=pointer]:
+                  - /url: /aldenisa907/
+                  - img "Foto do perfil de aldenisa907" [ref=e277]
+                - generic [ref=e279]:
+                  - generic [ref=e281]:
+                    - generic [ref=e282]:
+                      - link "aldenisa907" [ref=e284] [cursor=pointer]:
+                        - /url: /aldenisa907/
+                        - generic [ref=e287]: aldenisa907
+                      - link "6 sem" [ref=e289] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18588864502047104/
+                        - time [ref=e290]: 6 sem
+                    - generic [ref=e292]: Faz entregas em Osasco SP?
+                  - generic [ref=e293]:
+                    - button "1 curtida" [ref=e294] [cursor=pointer]:
+                      - generic [ref=e296]: 1 curtida
+                    - button "Responder" [ref=e297] [cursor=pointer]:
+                      - generic [ref=e299]: Responder
+              - generic [ref=e302]:
+                - link "Foto do perfil de desgarrado_76" [ref=e304] [cursor=pointer]:
+                  - /url: /desgarrado_76/
+                  - img "Foto do perfil de desgarrado_76" [ref=e305]
+                - generic [ref=e307]:
+                  - generic [ref=e309]:
+                    - generic [ref=e310]:
+                      - link "desgarrado_76" [ref=e312] [cursor=pointer]:
+                        - /url: /desgarrado_76/
+                        - generic [ref=e315]: desgarrado_76
+                      - link "7 sem" [ref=e317] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18092032978916873/
+                        - time [ref=e318]: 7 sem
+                    - generic [ref=e320]: Pena que usam cominho 🤢
+                  - generic [ref=e321]:
+                    - button "Curtir" [ref=e322] [cursor=pointer]:
+                      - generic [ref=e323]: Curtir
+                    - button "Responder" [ref=e324] [cursor=pointer]:
+                      - generic [ref=e326]: Responder
+              - generic [ref=e329]:
+                - link "Foto do perfil de nirvanaaquino" [ref=e331] [cursor=pointer]:
+                  - /url: /nirvanaaquino/
+                  - img "Foto do perfil de nirvanaaquino" [ref=e332]
+                - generic [ref=e334]:
+                  - generic [ref=e336]:
+                    - generic [ref=e337]:
+                      - link "nirvanaaquino" [ref=e339] [cursor=pointer]:
+                        - /url: /nirvanaaquino/
+                        - generic [ref=e342]: nirvanaaquino
+                      - link "7 sem" [ref=e344] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18078256343573176/
+                        - time [ref=e345]: 7 sem
+                    - generic [ref=e347]: Vcs não tem zap?
+                  - generic [ref=e348]:
+                    - button "1 curtida" [ref=e349] [cursor=pointer]:
+                      - generic [ref=e351]: 1 curtida
+                    - button "Responder" [ref=e352] [cursor=pointer]:
+                      - generic [ref=e354]: Responder
+              - generic [ref=e357]:
+                - link "Foto do perfil de veranale" [ref=e359] [cursor=pointer]:
+                  - /url: /veranale/
+                  - img "Foto do perfil de veranale" [ref=e360]
+                - generic [ref=e362]:
+                  - generic [ref=e364]:
+                    - generic [ref=e365]:
+                      - link "veranale" [ref=e367] [cursor=pointer]:
+                        - /url: /veranale/
+                        - generic [ref=e370]: veranale
+                      - link "9 sem" [ref=e372] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/17951194436965475/
+                        - time [ref=e373]: 9 sem
+                    - generic [ref=e375]: Tem em Bauru/SP?
+                  - generic [ref=e376]:
+                    - button "1 curtida" [ref=e377] [cursor=pointer]:
+                      - generic [ref=e379]: 1 curtida
+                    - button "Responder" [ref=e380] [cursor=pointer]:
+                      - generic [ref=e382]: Responder
+              - generic [ref=e385]:
+                - link "Foto do perfil de vivianevieiraadv" [ref=e387] [cursor=pointer]:
+                  - /url: /vivianevieiraadv/
+                  - img "Foto do perfil de vivianevieiraadv" [ref=e388]
+                - generic [ref=e390]:
+                  - generic [ref=e392]:
+                    - generic [ref=e393]:
+                      - link "vivianevieiraadv" [ref=e395] [cursor=pointer]:
+                        - /url: /vivianevieiraadv/
+                        - generic [ref=e398]: vivianevieiraadv
+                      - link "12 sem" [ref=e400] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18313181041255303/
+                        - time [ref=e401]: 12 sem
+                    - generic [ref=e403]: Amei...👏
+                  - generic [ref=e404]:
+                    - button "1 curtida" [ref=e405] [cursor=pointer]:
+                      - generic [ref=e407]: 1 curtida
+                    - button "Responder" [ref=e408] [cursor=pointer]:
+                      - generic [ref=e410]: Responder
+              - generic [ref=e413]:
+                - link "Foto do perfil de jeniffer.accacio" [ref=e415] [cursor=pointer]:
+                  - /url: /jeniffer.accacio/
+                  - img "Foto do perfil de jeniffer.accacio" [ref=e416]
+                - generic [ref=e418]:
+                  - generic [ref=e420]:
+                    - generic [ref=e421]:
+                      - link "jeniffer.accacio" [ref=e423] [cursor=pointer]:
+                        - /url: /jeniffer.accacio/
+                        - generic [ref=e426]: jeniffer.accacio
+                      - link "12 sem" [ref=e428] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18381736459080292/
+                        - time [ref=e429]: 12 sem
+                    - generic [ref=e431]: Gente só come!😍
+                  - generic [ref=e432]:
+                    - button "1 curtida" [ref=e433] [cursor=pointer]:
+                      - generic [ref=e435]: 1 curtida
+                    - button "Responder" [ref=e436] [cursor=pointer]:
+                      - generic [ref=e438]: Responder
+              - generic [ref=e441]:
+                - link "Foto do perfil de jeniffer.accacio" [ref=e443] [cursor=pointer]:
+                  - /url: /jeniffer.accacio/
+                  - img "Foto do perfil de jeniffer.accacio" [ref=e444]
+                - generic [ref=e446]:
+                  - generic [ref=e448]:
+                    - generic [ref=e449]:
+                      - link "jeniffer.accacio" [ref=e451] [cursor=pointer]:
+                        - /url: /jeniffer.accacio/
+                        - generic [ref=e454]: jeniffer.accacio
+                      - link "14 sem" [ref=e456] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18276902734305227/
+                        - time [ref=e457]: 14 sem
+                    - generic [ref=e459]: ❤️ delícia
+                  - generic [ref=e460]:
+                    - button "1 curtida" [ref=e461] [cursor=pointer]:
+                      - generic [ref=e463]: 1 curtida
+                    - button "Responder" [ref=e464] [cursor=pointer]:
+                      - generic [ref=e466]: Responder
+              - generic [ref=e469]:
+                - link "Foto do perfil de genivalker" [ref=e471] [cursor=pointer]:
+                  - /url: /genivalker/
+                  - img "Foto do perfil de genivalker" [ref=e472]
+                - generic [ref=e474]:
+                  - generic [ref=e476]:
+                    - generic [ref=e477]:
+                      - link "genivalker" [ref=e479] [cursor=pointer]:
+                        - /url: /genivalker/
+                        - generic [ref=e482]: genivalker
+                      - link "19 sem" [ref=e484] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/17884267434330162/
+                        - time [ref=e485]: 19 sem
+                    - link "@lud_marques" [ref=e488] [cursor=pointer]:
+                      - /url: /lud_marques/
+                  - generic [ref=e489]:
+                    - button "2 curtidas" [ref=e490] [cursor=pointer]:
+                      - generic [ref=e492]: 2 curtidas
+                    - button "Responder" [ref=e493] [cursor=pointer]:
+                      - generic [ref=e495]: Responder
+              - generic [ref=e498]:
+                - link "Foto do perfil de karinamaymone" [ref=e500] [cursor=pointer]:
+                  - /url: /karinamaymone/
+                  - img "Foto do perfil de karinamaymone" [ref=e501]
+                - generic [ref=e503]:
+                  - generic [ref=e505]:
+                    - generic [ref=e506]:
+                      - link "karinamaymone" [ref=e508] [cursor=pointer]:
+                        - /url: /karinamaymone/
+                        - generic [ref=e511]: karinamaymone
+                      - link "19 sem" [ref=e513] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18066788003636844/
+                        - time [ref=e514]: 19 sem
+                    - generic [ref=e516]: Comprei, vou experimentar e darei feedback posteriormente...😉
+                  - generic [ref=e517]:
+                    - button "3 curtidas" [ref=e518] [cursor=pointer]:
+                      - generic [ref=e520]: 3 curtidas
+                    - button "Responder" [ref=e521] [cursor=pointer]:
+                      - generic [ref=e523]: Responder
+              - generic [ref=e526]:
+                - link "Foto do perfil de terzakisphilio" [ref=e528] [cursor=pointer]:
+                  - /url: /terzakisphilio/
+                  - img "Foto do perfil de terzakisphilio" [ref=e529]
+                - generic [ref=e531]:
+                  - generic [ref=e533]:
+                    - generic [ref=e534]:
+                      - link "terzakisphilio" [ref=e536] [cursor=pointer]:
+                        - /url: /terzakisphilio/
+                        - generic [ref=e539]: terzakisphilio
+                      - link "20 sem" [ref=e541] [cursor=pointer]:
+                        - /url: /p/DEh30iAOIxJ/c/18089348102285248/
+                        - time [ref=e542]: 20 sem
+                    - generic [ref=e544]: Por favor, não parem! Vocês são maravilhosos! 😢❤️
+                  - generic [ref=e545]:
+                    - button "1 curtida" [ref=e546] [cursor=pointer]:
+                      - generic [ref=e548]: 1 curtida
+                    - button "Responder" [ref=e549] [cursor=pointer]:
+                      - generic [ref=e551]: Responder
+              - progressbar [ref=e554]:
+                - img "Carregando..." [ref=e555]
+          - generic [ref=e568]:
+            - generic [ref=e569]:
+              - generic [ref=e570]:
+                - button "Curtir" [ref=e573] [cursor=pointer]:
+                  - img "Curtir" [ref=e576]
+                - button "726" [ref=e578] [cursor=pointer]
+                - button "Comentar" [ref=e580] [cursor=pointer]:
+                  - img "Comentar" [ref=e582]
+                - button "87" [ref=e584] [cursor=pointer]
+                - button "Compartilhar" [ref=e585] [cursor=pointer]:
+                  - img "Compartilhar" [ref=e586]
+              - button "Salvar" [ref=e590] [cursor=pointer]:
+                - img "Salvar" [ref=e592]
+            - link "7 de janeiro de 2025" [ref=e596] [cursor=pointer]:
+              - /url: /personalchefsbrasil/reel/DEh30iAOIxJ/
+              - time [ref=e598]: 7 de janeiro de 2025
+          - generic [ref=e603]:
+            - link "Entrar" [ref=e604] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Fpersonalchefsbrasil%2Freel%2FDEh30iAOIxJ%2F&source=post_comment_input
+            - text: para curtir ou comentar.
+      - separator [ref=e606]
+      - generic [ref=e607]:
+        - generic [ref=e609]:
+          - text: Mais posts de
+          - link "personalchefsbrasil" [ref=e610] [cursor=pointer]:
+            - /url: /personalchefsbrasil/
+        - generic [ref=e613]:
+          - generic [ref=e614]:
+            - link "Photo by Personal Chef’s - Marmitas Saudáveis on June 20, 2024." [ref=e741] [cursor=pointer]:
+              - /url: /personalchefsbrasil/p/C8cQ3LPuud-/
+              - img "Photo by Personal Chef’s - Marmitas Saudáveis on June 20, 2024." [ref=e742]
+            - link "Video by Personal Chef’s - Marmitas Saudáveis on June 05, 2024. Clipe" [ref=e743] [cursor=pointer]:
+              - /url: /personalchefsbrasil/reel/C71hUxrueUL/
+              - img "Video by Personal Chef’s - Marmitas Saudáveis on June 05, 2024." [ref=e744]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Photo by Personal Chef’s - Marmitas Saudáveis on June 03, 2026. Carrossel" [ref=e745] [cursor=pointer]:
+              - /url: /personalchefsbrasil/p/DZIO-hokSvK/
+              - img "Photo by Personal Chef’s - Marmitas Saudáveis on June 03, 2026." [ref=e746]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+          - generic [ref=e630]:
+            - link "Photo by Personal Chef’s - Marmitas Saudáveis on June 01, 2026. Pode ser uma imagem de texto que diz \"Marmita ultracongelada é saudável mesmo? Leia Leiaalegenda a legenda\"." [ref=e747] [cursor=pointer]:
+              - /url: /personalchefsbrasil/p/DZDYJj6x75T/
+              - img "Photo by Personal Chef’s - Marmitas Saudáveis on June 01, 2026. Pode ser uma imagem de texto que diz \"Marmita ultracongelada é saudável mesmo? Leia Leiaalegenda a legenda\"." [ref=e748]
+            - link "Video by Melissa Santana. on June 01, 2026. Pode ser uma imagem de chá e texto. Clipe" [ref=e749] [cursor=pointer]:
+              - /url: /melissasntna/reel/DZDCsRZuWIR/
+              - img "Video by Melissa Santana. on June 01, 2026. Pode ser uma imagem de chá e texto." [ref=e750]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Video by Lorena Brunet | Corre Que Dá Tempo on May 29, 2026. Pode ser uma imagem de uma ou mais pessoas, maquiagem, telefone, abridor de lata e texto que diz \"lways e bora de marmitas da semana com Personal Chefs IEA C\". Clipe" [ref=e751] [cursor=pointer]:
+              - /url: /lorenabrunet/reel/DY7RuBigZ12/
+              - img "Video by Lorena Brunet | Corre Que Dá Tempo on May 29, 2026. Pode ser uma imagem de uma ou mais pessoas, maquiagem, telefone, abridor de lata e texto que diz \"lways e bora de marmitas da semana com Personal Chefs IEA C\"." [ref=e752]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e646]:
+            - link "Video by Dante on May 26, 2026. Pode ser uma imagem de saco plástico, sacola de compras e texto. Clipe" [ref=e753] [cursor=pointer]:
+              - /url: /dantesantana_/reel/DYz3hPnRBub/
+              - img "Video by Dante on May 26, 2026. Pode ser uma imagem de saco plástico, sacola de compras e texto." [ref=e754]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Video by Sarah Dantas on May 25, 2026. Pode ser uma imagem de uma ou mais pessoas, maquiagem, fio dental, escova de dentes e texto. Clipe" [ref=e755] [cursor=pointer]:
+              - /url: /sarahdantasf/reel/DYw_63qh_dJ/
+              - img "Video by Sarah Dantas on May 25, 2026. Pode ser uma imagem de uma ou mais pessoas, maquiagem, fio dental, escova de dentes e texto." [ref=e756]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Video by Grazielly Torres on May 21, 2026. Pode ser uma imagem de shepherd's pie, pão, vegetais e texto que diz \"CPEI EXSI 1502% comedos Escuidinhogratinand desol Tacax Chels ค Personal adinho Conse de untoque co con úde Sem dinhogratinan ま Chef. toque esabo toque Praticidade, úde ntes con gelade congelado ado Ultra-\". Clipe" [ref=e757] [cursor=pointer]:
+              - /url: /grazitdaily/reel/DYnEMs3BKVv/
+              - img "Video by Grazielly Torres on May 21, 2026. Pode ser uma imagem de shepherd's pie, pão, vegetais e texto que diz \"CPEI EXSI 1502% comedos Escuidinhogratinand desol Tacax Chels ค Personal adinho Conse de untoque co con úde Sem dinhogratinan ま Chef. toque esabo toque Praticidade, úde ntes con gelade congelado ado Ultra-\"." [ref=e758]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+        - generic [ref=e662]:
+          - link "Ver mais posts" [ref=e664] [cursor=pointer]:
+            - /url: /personalchefsbrasil/
+            - generic [ref=e665]: Ver mais posts
+          - separator [ref=e666]
+  - contentinfo [ref=e667]:
+    - generic [ref=e668]:
+      - generic [ref=e670]:
+        - link "Meta" [ref=e672] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e673]: Meta
+        - link "Sobre" [ref=e675] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e676]: Sobre
+        - link "Blog" [ref=e678] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e679]: Blog
+        - link "Carreiras" [ref=e681] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e682]: Carreiras
+        - link "Ajuda" [ref=e684] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e685]: Ajuda
+        - link "API" [ref=e687] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e688]: API
+        - link "Privacidade" [ref=e690] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e691]: Privacidade
+        - link "Termos" [ref=e693] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e694]: Termos
+        - link "Localizações" [ref=e696] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e697]: Localizações
+        - link "Popular" [ref=e699] [cursor=pointer]:
+          - /url: /popular/
+          - generic [ref=e700]: Popular
+        - link "Instagram Lite" [ref=e702] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e703]: Instagram Lite
+        - link "Meta AI" [ref=e705] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e706]: Meta AI
+        - link "Threads" [ref=e708] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e709]: Threads
+        - link "Upload de contatos e não usuários" [ref=e711] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e712]: Upload de contatos e não usuários
+        - link "Meta Verified" [ref=e714] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e715]: Meta Verified
+      - generic [ref=e716]:
+        - generic [ref=e717] [cursor=pointer]:
+          - generic [ref=e718]:
+            - generic [ref=e719]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e722]
+          - combobox "Trocar idioma de exibição" [ref=e724]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e726]: © 2026 Instagram from Meta

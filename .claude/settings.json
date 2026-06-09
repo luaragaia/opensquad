@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:nutrefit-app-digital.lovable.app)",
+      "WebSearch",
+      "mcp__playwright__browser_navigate",
+      "Read(//c/Users/Luara Rosa/Documents/Squad/Fotos Vitta/**)",
+      "Bash(python skills/leonardo-ai/scripts/generate.py --prompt \"test\" --output \"temp/test-api.jpg\")",
+      "Bash(python skills/leonardo-ai/scripts/generate.py --prompt \"Professional food photography of chicken parmigiana fitness meal prep. Same meal as reference with enhanced lighting from camera-left, sharper textures, more appetizing golden color on the chicken, vibrant vegetables. Dark slate surface with scattered fresh herbs. Sony A7R IV, 85mm f/2.8. Ultra-realistic, photorealistic, commercial food photography, high resolution. No text, no watermark.\" --reference \"Fotos Vitta/hero/parmegina-hero.jpg\" --output \"squads/marketing-instagram/output/2026-06-04-220000/assets/slide1-cover-peca-a.jpg\" --strength 0.6 --mode test)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
