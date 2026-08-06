@@ -4,7 +4,10 @@
       "Read(//c/Users/renat/.claude/plugins//**)",
       "Read(//c/Users/renat/.claude/plugins/**)",
       "Read(//c/Users/renat/.claude/**)",
-      "Edit(/.claude/skills/opensquad-dev/**)"
+      "Edit(/.claude/skills/opensquad-dev/**)",
+      "Bash(echo \"npm: $\\(npm -v 2>/dev/null\\)\")",
+      "Bash(npm --version)",
+      "mcp__0bdc08fa-5823-41dc-8522-6b0dea83a9aa__read-design"
     ]
   },
   "outputStyle": "default"
