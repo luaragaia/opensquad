@@ -1,0 +1,13 @@
+- generic [ref=e13]:
+  - heading "Você vai poder voltar a criar designs em breve" [level=1] [ref=e14]
+  - generic [ref=e15]:
+    - main:
+      - generic:
+        - heading [level=2]
+        - paragraph
+  - paragraph [ref=e16]:
+    - text: Se não conseguir passar desta página,
+    - link "acesse a Central de Ajuda" [ref=e17] [cursor=pointer]:
+      - /url: https://www.canva.com/en/help/troubleshoot-cloudflare-error/
+    - text: para entender por que isso está acontecendo.
+  - paragraph [ref=e18]: "RayID: a29846a30941ac38"

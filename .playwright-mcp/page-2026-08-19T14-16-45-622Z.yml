@@ -1,0 +1,217 @@
+- generic [ref=f25e1]:
+  - generic [ref=f25e8]:
+    - generic [ref=f25e10]:
+      - link [ref=f25e13] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f25e27]:
+        - link [ref=f25e29] [cursor=pointer]:
+          - /url: /accounts/login/?next=%2Fluxrelevo%2F&source=desktop_nav
+          - text: Entrar
+        - link [ref=f25e31] [cursor=pointer]:
+          - /url: /accounts/emailsignup/
+          - text: Cadastre-se
+    - main [ref=f25e32]:
+      - generic [ref=f25e34]:
+        - generic [ref=f25e35]:
+          - link [ref=f25e39] [cursor=pointer]:
+            - /url: /luxrelevo/
+          - heading [level=2] [ref=f25e47]:
+            - generic [ref=f25e48]: luxrelevo
+          - list [ref=f25e50]:
+            - listitem [ref=f25e51]:
+              - link [ref=f25e53] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f25e54]:
+                  - generic [ref=f25e55]: 27,1 mil
+                  - text: seguidores
+            - listitem [ref=f25e56]:
+              - link [ref=f25e58] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f25e59]:
+                  - generic [ref=f25e60]: "3.084"
+                  - text: seguindo
+          - generic [ref=f25e62]:
+            - generic [ref=f25e63]: Gráfica LUX RELEVO
+            - generic [ref=f25e65]:
+              - button [ref=f25e66] [cursor=pointer]: Desde 1970 imprimindo bom gosto e sofisticação nas melhores empresas, eventos e casamentos. Dúvidas por Direct ou pelo
+              - generic [ref=f25e67]:
+                - text: ...
+                - button [ref=f25e68] [cursor=pointer]:
+                  - generic [ref=f25e69]: mais
+            - link [ref=f25e76] [cursor=pointer]:
+              - /url: https://l.instagram.com/?u=https%3A%2F%2Fcampsite.bio%2Fluxrelevo&e=AUDvSfA2UGvjAPQD6Ks3GlbQSB9b8HcBG66T05U3wZexfINrPu0nfnZ3L87K2GWA_92E45jNlSqVMPZ80BahKy7n-ewyOtogvZrmEqhFx9avnADYBz2yV2RaIMWWWhl0IPjrd_iEk2a2144qgDbZZ687kPxTW_0pbiwLOw
+              - generic [ref=f25e77]: campsite.bio/luxrelevo
+          - menu [ref=f25e79]:
+            - generic [ref=f25e81]:
+              - list [ref=f25e83]:
+                - listitem [ref=f25e84]
+                - listitem [ref=f25e85]
+                - listitem [ref=f25e86]:
+                  - link [ref=f25e89] [cursor=pointer]:
+                    - /url: /stories/highlights/17998662094272700/
+                    - button [ref=f25e90]:
+                      - button [ref=f25e91]
+                      - generic [ref=f25e95]: Eventos
+                - listitem [ref=f25e98]:
+                  - link [ref=f25e101] [cursor=pointer]:
+                    - /url: /stories/highlights/17879342043009267/
+                    - button [ref=f25e102]:
+                      - button [ref=f25e103]
+                      - generic [ref=f25e107]: Acabamentos
+                - listitem [ref=f25e110]:
+                  - link [ref=f25e113] [cursor=pointer]:
+                    - /url: /stories/highlights/17915507810715510/
+                    - button [ref=f25e114]:
+                      - button [ref=f25e115]
+                      - generic [ref=f25e119]: Produtos
+                - listitem [ref=f25e122]:
+                  - link [ref=f25e125] [cursor=pointer]:
+                    - /url: /stories/highlights/18393475138083498/
+                    - button [ref=f25e126]:
+                      - button [ref=f25e127]
+                      - generic [ref=f25e131]: Depoimentos
+                - listitem [ref=f25e134]:
+                  - link [ref=f25e137] [cursor=pointer]:
+                    - /url: /stories/highlights/17908679485466165/
+                    - button [ref=f25e138]:
+                      - button [ref=f25e139]
+                      - generic [ref=f25e143]: Corporativo
+                - listitem [ref=f25e146]:
+                  - link [ref=f25e149] [cursor=pointer]:
+                    - /url: /stories/highlights/17856189435148601/
+                    - button [ref=f25e150]:
+                      - button [ref=f25e151]
+                      - generic [ref=f25e155]: Clientes
+                - listitem [ref=f25e158]:
+                  - link [ref=f25e161] [cursor=pointer]:
+                    - /url: /stories/highlights/18020266351949478/
+                    - button [ref=f25e162]:
+                      - button [ref=f25e163]
+                      - generic [ref=f25e167]: Localização
+                - listitem [ref=f25e170]:
+                  - link [ref=f25e173] [cursor=pointer]:
+                    - /url: /stories/highlights/17872388540107290/
+                    - button [ref=f25e174]:
+                      - button [ref=f25e175]
+                      - generic [ref=f25e179]: Convites
+                - listitem [ref=f25e182]:
+                  - link [ref=f25e185] [cursor=pointer]:
+                    - /url: /stories/highlights/17857300877019925/
+                    - button [ref=f25e186]:
+                      - button [ref=f25e187]
+                      - generic [ref=f25e191]: Revenda
+              - button [ref=f25e194] [cursor=pointer]
+        - tablist [ref=f25e197]:
+          - link [ref=f25e199] [cursor=pointer]:
+            - /url: /luxrelevo/
+          - link [ref=f25e212] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=f25e217] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=f25e223]:
+          - generic [ref=f25e226]:
+            - generic [ref=f25e227]:
+              - link [ref=f25e229] [cursor=pointer]:
+                - /url: /luxrelevo/reel/DaBr-FVJSwN/
+              - link [ref=f25e235] [cursor=pointer]:
+                - /url: /luxrelevo/p/DZ8SIdNibpY/
+              - link [ref=f25e241] [cursor=pointer]:
+                - /url: /luxrelevo/reel/DZ3UescJrEZ/
+            - generic [ref=f25e246]:
+              - link [ref=f25e248] [cursor=pointer]:
+                - /url: /luxrelevo/p/DZSt-J3CaTS/
+              - link [ref=f25e254] [cursor=pointer]:
+                - /url: /luxrelevo/p/DZGMfbFCRFB/
+              - link [ref=f25e260] [cursor=pointer]:
+                - /url: /luxrelevo/p/DYnUQfkD94i/
+            - generic [ref=f25e265]:
+              - link [ref=f25e267] [cursor=pointer]:
+                - /url: /luxrelevo/p/DYiJ55NieDX/
+              - link [ref=f25e273] [cursor=pointer]:
+                - /url: /luxrelevo/reel/DYVPNQuJ9-N/
+              - link [ref=f25e279] [cursor=pointer]:
+                - /url: /luxrelevo/p/DYH0vU_jURX/
+            - generic [ref=f25e284]:
+              - link [ref=f25e286] [cursor=pointer]:
+                - /url: /luxrelevo/p/DYDVfgqiase/
+              - link [ref=f25e292] [cursor=pointer]:
+                - /url: /luxrelevo/p/DYAoRLCCT6Q/
+              - link [ref=f25e298] [cursor=pointer]:
+                - /url: /luxrelevo/p/DX-Csm7iSUR/
+          - button [ref=f25e303] [cursor=pointer]:
+            - generic [ref=f25e304]: Mostrar mais posts de luxrelevo
+    - contentinfo [ref=f25e306]:
+      - generic [ref=f25e307]:
+        - generic [ref=f25e309]:
+          - link [ref=f25e311] [cursor=pointer]:
+            - /url: https://about.meta.com/
+            - generic [ref=f25e312]: Meta
+          - link [ref=f25e314] [cursor=pointer]:
+            - /url: https://about.instagram.com/
+            - generic [ref=f25e315]: Sobre
+          - link [ref=f25e317] [cursor=pointer]:
+            - /url: https://about.instagram.com/blog/
+            - generic [ref=f25e318]: Blog
+          - link [ref=f25e320] [cursor=pointer]:
+            - /url: https://about.instagram.com/about-us/careers
+            - generic [ref=f25e321]: Carreiras
+          - link [ref=f25e323] [cursor=pointer]:
+            - /url: https://help.instagram.com/
+            - generic [ref=f25e324]: Ajuda
+          - link [ref=f25e326] [cursor=pointer]:
+            - /url: https://developers.facebook.com/docs/instagram
+            - generic [ref=f25e327]: API
+          - link [ref=f25e329] [cursor=pointer]:
+            - /url: /legal/privacy/
+            - generic [ref=f25e330]: Privacidade
+          - link [ref=f25e332] [cursor=pointer]:
+            - /url: /legal/terms/
+            - generic [ref=f25e333]: Termos
+          - link [ref=f25e335] [cursor=pointer]:
+            - /url: /explore/locations/
+            - generic [ref=f25e336]: Localizações
+          - link [ref=f25e338] [cursor=pointer]:
+            - /url: /popular/
+            - generic [ref=f25e339]: Popular
+          - link [ref=f25e341] [cursor=pointer]:
+            - /url: /web/lite/
+            - generic [ref=f25e342]: Instagram Lite
+          - link [ref=f25e344] [cursor=pointer]:
+            - /url: https://www.meta.ai/?utm_source=foa_web_footer
+            - generic [ref=f25e345]: Meta AI
+          - link [ref=f25e347] [cursor=pointer]:
+            - /url: https://www.threads.com/
+            - generic [ref=f25e348]: Threads
+          - link [ref=f25e350] [cursor=pointer]:
+            - /url: https://www.facebook.com/help/instagram/261704639352628
+            - generic [ref=f25e351]: Upload de contatos e não usuários
+          - link [ref=f25e353] [cursor=pointer]:
+            - /url: /accounts/meta_verified/?entrypoint=web_footer
+            - generic [ref=f25e354]: Meta Verified
+        - generic [ref=f25e355]:
+          - generic [ref=f25e356] [cursor=pointer]:
+            - generic [ref=f25e357]: Português (Brasil)
+            - combobox [ref=f25e363]
+          - generic [ref=f25e364]: © 2026 Instagram from Meta
+  - dialog [ref=f25e377]:
+    - generic [ref=f25e378]:
+      - button [active] [ref=f25e380] [cursor=pointer]:
+        - img "Fechar" [ref=f25e382]
+      - generic [ref=f25e386]:
+        - generic [ref=f25e387]:
+          - link [ref=f25e389] [cursor=pointer]:
+            - img "Foto do perfil de luxrelevo" [ref=f25e390]
+          - generic [ref=f25e392]:
+            - generic [ref=f25e393]: Veja fotos, vídeos e muito mais de luxrelevo
+            - generic [ref=f25e394]: Cadastre-se e não perca nenhum post de luxrelevo.
+            - generic [ref=f25e397]:
+              - text: Ao continuar, você concorda com os
+              - link "Termos de Uso" [ref=f25e398] [cursor=pointer]:
+                - /url: https://help.instagram.com/581066165581870/?locale=pt_BR
+              - text: e a
+              - link "Política de Privacidade" [ref=f25e399] [cursor=pointer]:
+                - /url: https://privacycenter.instagram.com/policy/
+              - text: do Instagram.
+        - generic [ref=f25e400]:
+          - button "Cadastre-se" [ref=f25e403] [cursor=pointer]
+          - button "Entrar" [ref=f25e406] [cursor=pointer]
